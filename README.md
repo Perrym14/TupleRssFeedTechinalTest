@@ -1,7 +1,7 @@
 # TupleRssFeedTechinalTest
 Metabolon Software Engineer- Techinal Test
 
-Solution can found: TupleRssFeedExercise/Program.cs
+Solution can be found: TupleRssFeedExercise/Program.cs
 
 Solution synopsis: Takes tuple datasets, query for feeds that were published a day or less ago, and prints the company name as well as timespan that feed was inactive.
 
