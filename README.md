@@ -7,11 +7,11 @@ Solution can be found: TupleRssFeedExercise/Program.cs
 
 - I'm assuming that RSS feed information has already been read and parsed into a data table and it's schema is: 
 
-Company Name,
-Article Title,
-Url,
-Publish Date,
-Article Description,
+ Company Name,
+ Article Title,
+ Url,
+ Publish Date,
+ Article Description,
 
 ### Example
 
